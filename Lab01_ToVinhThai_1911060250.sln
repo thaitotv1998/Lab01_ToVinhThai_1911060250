@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01", "Lab01\Lab01.csproj", "{6253A9B3-432F-4E3F-BB81-9C74E067AE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01-02", "Lab01-02\Lab01-02.csproj", "{637A273E-E17F-4079-B4F3-1473D74CB1F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01-03+04", "Lab01_3+4\Lab01-03+04.csproj", "{9D0C5607-796A-4B07-AB71-C13C16032FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6253A9B3-432F-4E3F-BB81-9C74E067AE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6253A9B3-432F-4E3F-BB81-9C74E067AE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6253A9B3-432F-4E3F-BB81-9C74E067AE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6253A9B3-432F-4E3F-BB81-9C74E067AE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637A273E-E17F-4079-B4F3-1473D74CB1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637A273E-E17F-4079-B4F3-1473D74CB1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637A273E-E17F-4079-B4F3-1473D74CB1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637A273E-E17F-4079-B4F3-1473D74CB1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0C5607-796A-4B07-AB71-C13C16032FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0C5607-796A-4B07-AB71-C13C16032FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0C5607-796A-4B07-AB71-C13C16032FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0C5607-796A-4B07-AB71-C13C16032FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC74009-7C29-47D3-9760-9A15D990A135}
+	EndGlobalSection
+EndGlobal
